@@ -1,0 +1,31 @@
+body {
+text-align: center;
+background-color: #2e68c0;
+color: white;
+font-family: sans-serif;
+}
+
+#kebabBtn {
+border: none;
+background: none;
+cursor: pointer;
+}
+
+#kebabBtn img {
+width: 200px;
+}
+
+body {
+    display: flex;
+}
+
+#shop {
+    text-align: right;
+    border-left: 2px solid;
+    padding: 20px;
+}
+
+#shop button {
+    display: block;
+    margin: 50px 0;
+}
